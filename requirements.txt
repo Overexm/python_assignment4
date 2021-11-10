@@ -1,0 +1,4 @@
+Flask==2.0.2
+Flask-SQLAlchemy==2.5.1
+beautifulSoup==4.9.3
+lxml==4.6.3
