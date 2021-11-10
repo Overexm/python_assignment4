@@ -33,6 +33,8 @@ For Mac OS,Linux:
 ```python $ pip install SQLAlchemy ```
 * ### BeautifulSoup
 ```python $ pip install beautifulsoup4```
+* ### pyjwt
+```python $ pip install pyjwt ```
 * ### PostgreSQL Database [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 
