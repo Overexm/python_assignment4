@@ -44,14 +44,14 @@ For Mac OS,Linux:
 ## Usage
 
 ```python
-from flask import Flask, render_template
-from flask import request
-from flask.json import jsonify
-import jwt
+from flask import Flask, render_template, request
 from flask_sqlalchemy import SQLAlchemy
-import psycopg2
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
+from bs4 import BeautifulSoup, re
+from selenium import webdriver
+import pwjt
+import requests
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.service import Service
 
 ```
 [Back To The Top](#python_assignment4)
